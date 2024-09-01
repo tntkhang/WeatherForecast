@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_city">Search city...</string>
+    <string name="temperature">Temperature:</string>
+    <string name="feel_like">"Feel like: "</string>
+    <string name="observationTime">Observation Time:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="uv_index">Uv index:</string>
+</resources>
